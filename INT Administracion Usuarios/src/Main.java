@@ -15,7 +15,6 @@ public class Main {
         mainPanel.setBackground(new Color(173, 216, 230));
         frame.add(mainPanel);
 
-
         JPanel titlePanel = new JPanel();
         titlePanel.setBackground(new Color(100, 149, 237));
         JLabel titleLabel = new JLabel("Administración de Usuarios", SwingConstants.CENTER);
